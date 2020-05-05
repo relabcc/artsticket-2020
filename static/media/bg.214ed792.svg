@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1367 769">
+  <polygon points="1303.67 711.18 1329.13 737.37 1329.13 58.24 1303.67 91.03 1303.67 711.18" fill="#7c3b25" stroke="#16221d" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polygon points="1329.13 58.24 1303.18 89.46 479.51 89.46 479.51 58.24 1329.13 58.24" fill="#7c3b25" stroke="#16221d" stroke-miterlimit="10" stroke-width="1.5"/>
+  <polygon points="1329.13 737.37 1303.18 682.9 479.51 682.9 479.51 737.37 1329.13 737.37" fill="#7c3b25" stroke="#16221d" stroke-miterlimit="10" stroke-width="1.5"/>
+  <g>
+    <polygon points="480.03 480.11 433.11 521.52 433.11 535.45 480.03 576.87 480.03 480.11" fill="#16221d" stroke="#16221d" stroke-miterlimit="10" stroke-width="1.26"/>
+    <polygon points="479.13 480.11 432.21 526.53 189.01 526.53 111.53 480.11 479.13 480.11" fill="#7c3b25" stroke="#16221d" stroke-miterlimit="10" stroke-width="1.33"/>
+    <polygon points="479.13 480.11 432.21 526.53 189.01 526.53 111.53 480.11 479.13 480.11" fill="#7c3b25" stroke="#16221d" stroke-miterlimit="10" stroke-width="1.33"/>
+    <polygon points="479.13 576.87 432.21 526.53 189.01 526.53 111.53 576.87 479.13 576.87" fill="#7c3b25" stroke="#16221d" stroke-miterlimit="10" stroke-width="1.33"/>
+    <polygon points="111.53 480.11 111.53 576.87 189.01 526.53 111.53 480.11" fill="#7c3b25" stroke="#16221d" stroke-miterlimit="10" stroke-width="1.33"/>
+  </g>
+</svg>

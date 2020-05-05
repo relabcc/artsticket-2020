@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1367" height="790.26" viewBox="0 0 1367 790.26">
+  <g>
+    <g>
+      <path d="M121.49,772.8c417.17,27.83,873.73,6.13,1284.2-69.72l-40.4-583.91c-406.35,76.58-829.71,72.68-1245.07,98Z" fill="#f2e6d4" stroke="#16221d" stroke-miterlimit="10" stroke-width="1.45"/>
+      <path d="M809.39,251.4s413,116.08,569.69,109.66l-12.52-180.8S1040.35,237.45,809.39,251.4Z" fill="#fcc013"/>
+      <path d="M751.2,187s455.17,138.49,627.88,131.42l-18.47-195.53S1011.27,178.18,751.2,187Z" fill="#ffd377"/>
+      <path d="M1038.65,452.94s259.9,77.92,358.52,73.61l-7.88-121.38S1184,443.57,1038.65,452.94Z" fill="#ffd377"/>
+      <path d="M121.49,772.8c417.17,27.83,873.73,6.13,1284.2-69.72l-40.4-583.91c-406.35,76.58-829.71,72.68-1245.07,98Z" fill="none" stroke="#16221d" stroke-miterlimit="10" stroke-width="1.45"/>
+      <ellipse cx="1327.1" cy="170.47" rx="11.74" ry="11" fill="#b05232" stroke="#16221d" stroke-miterlimit="10" stroke-width="1.45"/>
+      <ellipse cx="1332.01" cy="230.21" rx="11.74" ry="11" fill="#b05232" stroke="#16221d" stroke-miterlimit="10" stroke-width="1.45"/>
+      <ellipse cx="1338.84" cy="290.9" rx="11.74" ry="11" fill="#b05232" stroke="#16221d" stroke-miterlimit="10" stroke-width="1.45"/>
+      <ellipse cx="1342.67" cy="351.59" rx="11.74" ry="11" fill="#b05232" stroke="#16221d" stroke-miterlimit="10" stroke-width="1.45"/>
+      <circle cx="1354.4" cy="454.91" r="11.74" fill="#b05232" stroke="#16221d" stroke-miterlimit="10" stroke-width="1.5"/>
+      <circle cx="1361.23" cy="522.13" r="11.74" fill="#b05232" stroke="#16221d" stroke-miterlimit="10" stroke-width="1.5"/>
+      <circle cx="1369.14" cy="591.14" r="11.74" fill="#b05232" stroke="#16221d" stroke-miterlimit="10" stroke-width="1.5"/>
+      <circle cx="1371.64" cy="658.15" r="11.74" fill="#b05232" stroke="#16221d" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line x1="999.32" y1="174.52" x2="1048.46" y2="752.54" fill="none" stroke="#16221d" stroke-miterlimit="10" stroke-width="1.45" stroke-dasharray="10.65"/>
+    </g>
+    <g>
+      <rect x="343.5" y="242.59" width="961.92" height="461.82" fill="#16221d" stroke="#16221d" stroke-miterlimit="10"/>
+      <line x1="1303.74" y1="240.67" x2="1303.74" y2="704.41" fill="#8e452d" stroke="#16221d" stroke-miterlimit="10" stroke-width="1.5"/>
+      <polyline points="1305.47 242.59 1278.13 233.83 316.16 233.83 343.5 242.59" fill="#5e2a15" stroke="#16221d" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+    <polygon points="312.13 234.16 343.5 242.59 343.5 704.41 312.13 695.98 312.13 234.16" fill="#5e2a15" stroke="#16221d" stroke-miterlimit="10" stroke-width="1.5"/>
+  </g>
+</svg>
