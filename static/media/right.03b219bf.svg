@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1367.5" height="717.79" viewBox="0 0 1367.5 717.79">
+  <defs>
+    <clipPath id="a">
+      <path d="M1207.68,317.22l-84.34-17.15-123.28,26.46,67.6,21.38s35,.22,49.47-7.4,24.73-17.13,43.72-16.11S1203.44,321.06,1207.68,317.22Z" fill="none"/>
+    </clipPath>
+    <clipPath id="b">
+      <path d="M1160.85,324.4c-19-1-29.28,8.5-43.72,16.11s-49.47,7.4-49.47,7.4l-.88,33.47s32.11-.23,47.14-10.3,30.42-21,47.06-20.4,30.61,3.68,43.17-2.67l3.53-30.79C1203.44,321.06,1179.84,325.42,1160.85,324.4Z" fill="none"/>
+    </clipPath>
+    <clipPath id="c">
+      <path d="M1293.42,338.46s-7.76,10.86-31.76,12.89-51,13.83-56.41,31.9l93.71,28.4,68.21-57.52Z" fill="none"/>
+    </clipPath>
+    <clipPath id="d">
+      <path d="M1105.6,530.81c-15.2,1.58-28.43,9.3-44.47,8.11-21.79-1.62-37.84-7.08-59.14,2.66a11.11,11.11,0,0,0-4.94,3.61,10.75,10.75,0,0,0-1.27,6.07c.06,6.48,1.37,13.08,4.78,18.59,7.92,12.8,22.11,11.71,35.14,9.72,12.28-1.87,23.45,3.63,35.46,4.6,13.19,1.07,23.64-4.15,36.25-7,11.18-2.53,33.59,3.53,39.24-9.59,8.48-19.66-8.29-31.92-25.67-35.91A46,46,0,0,0,1105.6,530.81Z" fill="none"/>
+    </clipPath>
+  </defs>
+  <path d="M1316.61,687.71c11.72-197.87,84.8-495.48,109.35-692.56L1220.22,58.62l-90.08,478.56Z" fill="#b05232" stroke="#16221d" stroke-miterlimit="10"/>
+  <path d="M1066.78,381.37l-.31,11.8s32.35-2.92,48.32-9.37,23.78-16.55,54.12-14.63,48.85,16.17,48.85,16.17l-.61-22.67L1103,354.92Z" fill="#16221d" stroke="#16221d" stroke-miterlimit="10"/>
+  <path d="M1071.27,381.22l-.1,3.84,5.07,1.93s18.76-1.67,29.87-6.35,27.54-15.57,43.7-16.7,30-3.84,61.34,11.4l15.43-12.42-106.81-18.74Z" fill="#bdb0ae" stroke="#16221d" stroke-miterlimit="10"/>
+  <path d="M1072.27,381.17l4.08,1.62s20.83-1.82,27.77-4.83,43.38-25.82,79.55-16.16,48.75,21,48.75,21l60.6-29.38-128.24-23.53Z" fill="#fff" stroke="#16221d" stroke-miterlimit="10"/>
+  <path d="M1207.68,317.22l-84.34-17.15-123.28,26.46,67.6,21.38s35,.22,49.47-7.4,24.73-17.13,43.72-16.11S1203.44,321.06,1207.68,317.22Z" fill="#fff" stroke="#16221d" stroke-miterlimit="10"/>
+  <g clip-path="url(#a)">
+    <g>
+      <line x1="1008.78" y1="324.6" x2="1091.41" y2="350.01" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+      <line x1="1016.05" y1="322.93" x2="1099.06" y2="347.93" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+      <line x1="1023.32" y1="321.25" x2="1106.72" y2="345.85" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+      <line x1="1030.59" y1="319.58" x2="1114.38" y2="343.77" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+      <line x1="1037.86" y1="317.9" x2="1122.04" y2="341.7" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+      <line x1="1045.14" y1="316.23" x2="1129.7" y2="339.62" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+      <line x1="1052.41" y1="314.55" x2="1137.36" y2="337.54" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+      <line x1="1059.68" y1="312.87" x2="1145.02" y2="335.47" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+      <line x1="1066.95" y1="311.2" x2="1152.68" y2="333.39" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+      <line x1="1074.22" y1="309.52" x2="1160.34" y2="331.31" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+      <line x1="1081.49" y1="307.85" x2="1168" y2="329.23" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+      <line x1="1088.77" y1="306.17" x2="1175.66" y2="327.16" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+      <line x1="1096.04" y1="304.5" x2="1183.32" y2="325.08" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+      <line x1="1103.31" y1="302.82" x2="1190.97" y2="323" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+      <line x1="1110.58" y1="301.14" x2="1198.63" y2="320.93" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+      <line x1="1117.85" y1="299.47" x2="1206.29" y2="318.85" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+    </g>
+  </g>
+  <path d="M1160.85,324.4c-19-1-29.28,8.5-43.72,16.11s-49.47,7.4-49.47,7.4l-.88,33.47s32.11-.23,47.14-10.3,30.42-21,47.06-20.4,30.61,3.68,43.17-2.67l3.53-30.79C1203.44,321.06,1179.84,325.42,1160.85,324.4Z" fill="#bdb0ae" stroke="#16221d" stroke-miterlimit="10"/>
+  <g clip-path="url(#b)">
+    <g>
+      <line x1="1075.59" y1="347.46" x2="1074.44" y2="391.23" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+      <line x1="1081.93" y1="345.39" x2="1080.76" y2="388.34" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+      <line x1="1088.26" y1="343.33" x2="1087.07" y2="385.45" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+      <line x1="1094.59" y1="341.26" x2="1093.39" y2="382.57" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+      <line x1="1100.92" y1="339.19" x2="1099.7" y2="379.68" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+      <line x1="1107.25" y1="337.13" x2="1106.02" y2="376.8" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+      <line x1="1113.58" y1="335.06" x2="1112.33" y2="373.91" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+      <line x1="1119.91" y1="332.99" x2="1118.65" y2="371.03" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+      <line x1="1126.24" y1="330.93" x2="1124.97" y2="368.14" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+      <line x1="1132.57" y1="328.86" x2="1131.28" y2="365.26" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+      <line x1="1138.9" y1="326.79" x2="1137.6" y2="362.37" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+      <line x1="1145.06" y1="325.26" x2="1143.65" y2="360.52" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+      <line x1="1151.05" y1="324.27" x2="1149.43" y2="359.69" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+      <line x1="1157.03" y1="323.27" x2="1155.22" y2="358.87" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+      <line x1="1163.02" y1="322.28" x2="1161" y2="358.05" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+      <line x1="1169.01" y1="321.28" x2="1166.79" y2="357.22" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+      <line x1="1174.99" y1="320.29" x2="1172.57" y2="356.4" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+      <line x1="1180.98" y1="319.29" x2="1178.36" y2="355.57" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+      <line x1="1186.96" y1="318.29" x2="1184.14" y2="354.75" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+      <line x1="1192.95" y1="317.3" x2="1189.93" y2="353.92" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+      <line x1="1198.93" y1="316.3" x2="1195.71" y2="353.1" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+      <line x1="1204.92" y1="315.31" x2="1201.5" y2="352.28" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+    </g>
+  </g>
+  <polygon points="1000.06 326.53 1006.51 368.61 1066.47 393.18 1067.66 347.91 1000.06 326.53" fill="#fff" stroke="#16221d" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M1044.19,345.12l-4.65,1.66-26.11-9.27,4.93-1.56-1.7-.57-7.27,2.3,29.42,10.45,7.06-2.46Z" fill="#b05232" stroke="#16221d" stroke-miterlimit="10"/>
+  <path d="M1009.38,337.69l4.71,36.42s28.51,12.77,28.52,12.09-3.8-38.06-3.8-38.06Z" fill="#b05232" stroke="#16221d" stroke-miterlimit="10"/>
+  <polygon points="1038.81 348.14 1042.62 386.11 1048.48 383.3 1045.87 345.68 1038.81 348.14" fill="#8e452d" stroke="#16221d" stroke-miterlimit="10"/>
+  <polygon points="1014.43 343.97 1014.82 346.17 1023.95 349.37 1024 347.25 1014.43 343.97" fill="#16221d" stroke="#16221d" stroke-miterlimit="10"/>
+  <polygon points="1032.73 353.13 1033.01 355.32 1039.49 358.01 1039.55 355.88 1032.73 353.13" fill="#16221d" stroke="#16221d" stroke-miterlimit="10"/>
+  <polygon points="1018.97 354.91 1019.51 361.23 1022.51 362.4 1022.04 355.7 1018.97 354.91" fill="#16221d" stroke="#16221d" stroke-miterlimit="10"/>
+  <polygon points="1032.88 374.46 1032.96 382.41 1034.38 383.02 1034.28 374.95 1032.88 374.46" fill="#16221d" stroke="#16221d" stroke-miterlimit="10"/>
+  <polygon points="1034.87 326.64 1073.04 338.03 1162.76 314.88 1120.09 306.3 1034.87 326.64" fill="#8e452d" stroke="#16221d" stroke-miterlimit="10"/>
+  <polygon points="1045.69 326.2 1076.81 335.12 1151.61 315.94 1116.94 309.23 1045.69 326.2" fill="#fff" stroke="#16221d" stroke-miterlimit="10"/>
+  <polygon points="1180.23 356.61 1160.98 350.68 1162.38 329.29 1180.83 333.69 1180.23 356.61" fill="#8e452d" stroke="#16221d" stroke-miterlimit="10"/>
+  <path d="M1162.38,329.29s24,1.14,39.23-2.5l5.17-1.72-26,8.62Z" fill="#fff" stroke="#16221d" stroke-miterlimit="10"/>
+  <polygon points="1180.83 333.69 1180.23 356.61 1208.69 347.98 1206.78 325.06 1180.83 333.69" fill="#8e452d" stroke="#16221d" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M1189,331.5l-.55,20.93,28.73,7.71.58-22.22Z" fill="#8e452d" stroke="#16221d" stroke-miterlimit="10"/>
+  <path d="M1189,331.5l-.55,20.93,28.73,7.71.58-22.22Z" fill="#8e452d" stroke="#16221d" stroke-miterlimit="10"/>
+  <path d="M1241.59,327.83,1241,349l-23.81,11.13.58-22.22Z" fill="#8e452d" stroke="#16221d" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M1238.91,331.59l-.43,16.34-18.6,8.7.46-17.35Z" fill="#16221d" stroke="#16221d" stroke-miterlimit="10"/>
+  <path d="M1189,331.5c0,1,27.2-9.42,27.2-9.42l25.35,5.75-23.79,10.09Z" fill="#b05232" stroke="#16221d" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M1193.86,331.22c0,.84,22.21-7.69,22.21-7.69l20.7,4.69-19.42,8.24Z" fill="#bdb0ae" stroke="#16221d" stroke-miterlimit="10"/>
+  <polygon points="1205.25 383.25 1210.44 438.17 1289.99 468.58 1298.96 411.65 1205.25 383.25" fill="#fff" stroke="#16221d" stroke-miterlimit="10"/>
+  <polygon points="1298.96 411.65 1289.99 468.58 1358.78 399.06 1367.17 354.12 1298.96 411.65" fill="#bdb0ae" stroke="#16221d" stroke-miterlimit="10"/>
+  <line x1="1303.03" y1="408.22" x2="1293.72" y2="464.82" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+  <line x1="1308.85" y1="403.31" x2="1299.53" y2="458.94" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+  <line x1="1314.67" y1="398.4" x2="1305.34" y2="453.07" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+  <line x1="1320.49" y1="393.49" x2="1311.16" y2="447.19" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+  <line x1="1326.31" y1="388.59" x2="1316.97" y2="441.31" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+  <line x1="1332.12" y1="383.68" x2="1322.79" y2="435.44" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+  <line x1="1337.94" y1="378.77" x2="1328.6" y2="429.56" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+  <line x1="1343.76" y1="373.86" x2="1334.42" y2="423.68" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+  <line x1="1349.58" y1="368.96" x2="1340.23" y2="417.81" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+  <line x1="1355.4" y1="364.05" x2="1346.04" y2="411.93" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+  <line x1="1361.22" y1="359.14" x2="1351.86" y2="406.05" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+  <polygon points="1207.69 386.24 1212.6 432.9 1287.48 462.85 1295.65 413.49 1207.69 386.24" fill="#16221d" stroke="#16221d" stroke-miterlimit="10"/>
+  <path d="M1272.78,419l-5.17,2.48-50.18-18.22,4.92-1.57-1.7-.56-7.27,2.3L1268,423.2l6.46-3.69Z" fill="#b05232" stroke="#16221d" stroke-miterlimit="10"/>
+  <path d="M1213.38,403.38l2.11,22.39s51.91,20.33,51.93,19.64l.58-22.21Z" fill="#b05232" stroke="#16221d" stroke-miterlimit="10"/>
+  <polygon points="1268 423.2 1267.42 445.33 1273.33 440.84 1274.46 419.5 1268 423.2" fill="#8e452d" stroke="#16221d" stroke-miterlimit="10"/>
+  <path d="M1232.21,340.2l-.59,22.44,30.78,8.26.63-23.81Z" fill="#8e452d" stroke="#16221d" stroke-miterlimit="10"/>
+  <path d="M1232.21,340.2l-.59,22.44,30.78,8.26.63-23.81Z" fill="#8e452d" stroke="#16221d" stroke-miterlimit="10"/>
+  <path d="M1288.52,336.27l-.6,22.7L1262.4,370.9l.63-23.81Z" fill="#8e452d" stroke="#16221d" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M1285.66,340.3l-.46,17.52-19.94,9.32.49-18.6Z" fill="#16221d" stroke="#16221d" stroke-miterlimit="10"/>
+  <path d="M1232.21,340.2c0,1.1,29.15-10.09,29.15-10.09l27.16,6.16L1263,347.09Z" fill="#b05232" stroke="#16221d" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M1237.37,339.9c0,.9,23.81-8.24,23.81-8.24l22.18,5-20.82,8.83Z" fill="#bdb0ae" stroke="#16221d" stroke-miterlimit="10"/>
+  <path d="M1293.42,338.46s-7.76,10.86-31.76,12.89-51,13.83-56.41,31.9l93.71,28.4,68.21-57.52Z" fill="#fff"/>
+  <path d="M1299.07,412.21l-.26-.08-94.18-28.55.14-.47c2.57-8.55,10-16.25,21.48-22.27a96.73,96.73,0,0,1,35.37-10c23.5-2,31.31-12.57,31.39-12.68l.19-.27.32.07,74.75,15.88Zm-93.2-29.29,93,28.17,67.22-56.69L1293.62,339c-1.39,1.72-9.76,11-31.92,12.83-31,2.62-51.39,17.52-55.82,31.07Z" fill="#16221d"/>
+  <g clip-path="url(#c)">
+    <g>
+      <line x1="1194.99" y1="375.03" x2="1303.03" y2="408.22" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+      <line x1="1202.76" y1="371.39" x2="1308.85" y2="403.31" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+      <line x1="1210.53" y1="367.76" x2="1314.67" y2="398.4" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+      <line x1="1218.29" y1="364.12" x2="1320.49" y2="393.49" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+      <line x1="1226.06" y1="360.48" x2="1326.31" y2="388.59" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+      <line x1="1233.83" y1="356.84" x2="1332.12" y2="383.68" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+      <line x1="1241.59" y1="353.2" x2="1337.94" y2="378.77" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+      <line x1="1249.36" y1="349.57" x2="1343.76" y2="373.86" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+      <line x1="1257.13" y1="345.93" x2="1349.58" y2="368.96" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+      <line x1="1264.9" y1="342.29" x2="1355.4" y2="364.05" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+      <line x1="1272.66" y1="338.65" x2="1361.22" y2="359.14" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+    </g>
+  </g>
+  <path d="M1235.5,376.64c.36-.64,51.58,14.61,51.58,14.61l28.59-20.88-46-12.43Z" fill="#8e452d" stroke="#16221d" stroke-miterlimit="10"/>
+  <path d="M1240.83,376.36c.31-.56,44.71,12.66,44.71,12.66l24.79-18.1-39.84-10.77Z" fill="#16221d" stroke="#16221d" stroke-miterlimit="10"/>
+  <line x1="1076.35" y1="382.79" x2="1076.24" y2="386.99" fill="none" stroke="#16221d" stroke-miterlimit="10"/>
+  <g clip-path="url(#d)">
+    <g>
+      <path d="M1105.6,530.81c-15.2,1.58-28.43,9.3-44.47,8.11-21.79-1.62-37.84-7.08-59.14,2.66a11.11,11.11,0,0,0-4.94,3.61,10.75,10.75,0,0,0-1.27,6.07c.06,6.48,1.37,13.08,4.78,18.59,7.92,12.8,22.11,11.71,35.14,9.72,12.28-1.87,23.45,3.63,35.46,4.6,13.19,1.07,23.64-4.15,36.25-7,11.18-2.53,33.59,3.53,39.24-9.59,8.48-19.66-8.29-31.92-25.67-35.91A46,46,0,0,0,1105.6,530.81Z" fill="#f2e6d4" stroke="#16221d" stroke-miterlimit="10" stroke-width="1.38"/>
+      <path d="M1147.77,550.82s-5.06,18.61-29.35,16.14a30,30,0,0,1-16.14-7.09c-4.52-3.79-12.09-8.09-21.18-5.15a21.75,21.75,0,0,0-9.25,6.06c-4.93,5.35-23.14,19.54-71.29,9.07,0,0,1.23,18.1,4,18.69s86.86,5.76,86.86,5.76h72.89Z" fill="#fbc8a2"/>
+    </g>
+  </g>
+  <path d="M1105.6,530.81c-15.2,1.58-28.43,9.3-44.47,8.11-21.79-1.62-37.84-7.08-59.14,2.66a11.11,11.11,0,0,0-4.94,3.61,10.75,10.75,0,0,0-1.27,6.07c.06,6.48,1.37,13.08,4.78,18.59,7.92,12.8,22.11,11.71,35.14,9.72,12.28-1.87,23.45,3.63,35.46,4.6,13.19,1.07,23.64-4.15,36.25-7,11.18-2.53,33.59,3.53,39.24-9.59,8.48-19.66-8.29-31.92-25.67-35.91A46,46,0,0,0,1105.6,530.81Z" fill="none" stroke="#16221d" stroke-miterlimit="10" stroke-width="1.38"/>
+</svg>
