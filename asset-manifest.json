@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "./static/js/main.e5ab1d0d.chunk.js",
-    "main.js.map": "./static/js/main.e5ab1d0d.chunk.js.map",
+    "main.js": "./static/js/main.5add0df8.chunk.js",
+    "main.js.map": "./static/js/main.5add0df8.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.643fe956.js",
     "runtime-main.js.map": "./static/js/runtime-main.643fe956.js.map",
     "static/css/2.e95169c9.chunk.css": "./static/css/2.e95169c9.chunk.css",
-    "static/js/2.0a34a60e.chunk.js": "./static/js/2.0a34a60e.chunk.js",
-    "static/js/2.0a34a60e.chunk.js.map": "./static/js/2.0a34a60e.chunk.js.map",
+    "static/js/2.bd422124.chunk.js": "./static/js/2.bd422124.chunk.js",
+    "static/js/2.bd422124.chunk.js.map": "./static/js/2.bd422124.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.5386229faef74baa75e94200ff991461.js": "./precache-manifest.5386229faef74baa75e94200ff991461.js",
+    "precache-manifest.4093e5d046d6570d856e943f1cf79564.js": "./precache-manifest.4093e5d046d6570d856e943f1cf79564.js",
     "service-worker.js": "./service-worker.js",
     "static/css/2.e95169c9.chunk.css.map": "./static/css/2.e95169c9.chunk.css.map",
-    "static/js/2.0a34a60e.chunk.js.LICENSE.txt": "./static/js/2.0a34a60e.chunk.js.LICENSE.txt",
+    "static/js/2.bd422124.chunk.js.LICENSE.txt": "./static/js/2.bd422124.chunk.js.LICENSE.txt",
     "static/media/1-1.png": "./static/media/1-1.50b09743.png",
     "static/media/1-10.png": "./static/media/1-10.d856b07d.png",
     "static/media/1-2.png": "./static/media/1-2.e1b3c6bf.png",
@@ -72,9 +72,9 @@
     "static/media/6-7.png": "./static/media/6-7.68115d38.png",
     "static/media/6-8.png": "./static/media/6-8.4b6ec57d.png",
     "static/media/6-9.png": "./static/media/6-9.a81cc34e.png",
-    "static/media/BalooBhai2-Bold.ttf": "./static/media/BalooBhai2-Bold.c115a413.ttf",
-    "static/media/BalooBhai2-Bold.woff": "./static/media/BalooBhai2-Bold.e13d8bfd.woff",
-    "static/media/GenJyuuGothic-Heavy.ttf": "./static/media/GenJyuuGothic-Heavy.7538772a.ttf",
+    "static/media/BalooBhai2-Bold.ttf": "./static/media/BalooBhai2-Bold.0f878c55.ttf",
+    "static/media/BalooBhai2-Bold.woff": "./static/media/BalooBhai2-Bold.e55e6708.woff",
+    "static/media/GenJyuuGothic-Heavy.ttf": "./static/media/GenJyuuGothic-Heavy.1b1f831d.ttf",
     "static/media/bg.svg": "./static/media/bg.bd1f944f.svg",
     "static/media/bglogo.svg": "./static/media/bglogo.38f4029a.svg",
     "static/media/c.svg": "./static/media/c.c4ab7ae3.svg",
@@ -87,7 +87,7 @@
     "static/media/hand.svg": "./static/media/hand.015f2756.svg",
     "static/media/hole.svg": "./static/media/hole.7d637834.svg",
     "static/media/key.svg": "./static/media/key.b413c3a0.svg",
-    "static/media/left.svg": "./static/media/left.fda314ab.svg",
+    "static/media/left.svg": "./static/media/left.e93cfc0a.svg",
     "static/media/light.svg": "./static/media/light.27596923.svg",
     "static/media/music.svg": "./static/media/music.7127922d.svg",
     "static/media/n.svg": "./static/media/n.9bc694a6.svg",
@@ -130,7 +130,7 @@
   "entrypoints": [
     "static/js/runtime-main.643fe956.js",
     "static/css/2.e95169c9.chunk.css",
-    "static/js/2.0a34a60e.chunk.js",
-    "static/js/main.e5ab1d0d.chunk.js"
+    "static/js/2.bd422124.chunk.js",
+    "static/js/main.5add0df8.chunk.js"
   ]
 }
