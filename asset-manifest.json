@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "./static/js/main.bb254dab.chunk.js",
-    "main.js.map": "./static/js/main.bb254dab.chunk.js.map",
+    "main.js": "./static/js/main.1c2cc385.chunk.js",
+    "main.js.map": "./static/js/main.1c2cc385.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.643fe956.js",
     "runtime-main.js.map": "./static/js/runtime-main.643fe956.js.map",
     "static/css/2.98e8484f.chunk.css": "./static/css/2.98e8484f.chunk.css",
     "static/js/2.d400d074.chunk.js": "./static/js/2.d400d074.chunk.js",
     "static/js/2.d400d074.chunk.js.map": "./static/js/2.d400d074.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.20d28c5a3117be7b33a398ad3b393f11.js": "./precache-manifest.20d28c5a3117be7b33a398ad3b393f11.js",
+    "precache-manifest.e0dfa858416dcaf6d727cb2c31d8ec64.js": "./precache-manifest.e0dfa858416dcaf6d727cb2c31d8ec64.js",
     "service-worker.js": "./service-worker.js",
     "static/css/2.98e8484f.chunk.css.map": "./static/css/2.98e8484f.chunk.css.map",
     "static/js/2.d400d074.chunk.js.LICENSE.txt": "./static/js/2.d400d074.chunk.js.LICENSE.txt",
@@ -74,7 +74,7 @@
     "static/media/6-9.png": "./static/media/6-9.a81cc34e.png",
     "static/media/BalooBhai2-Bold.ttf": "./static/media/BalooBhai2-Bold.0f878c55.ttf",
     "static/media/BalooBhai2-Bold.woff": "./static/media/BalooBhai2-Bold.e55e6708.woff",
-    "static/media/GenJyuuGothic-Heavy.ttf": "./static/media/GenJyuuGothic-Heavy.1b1f831d.ttf",
+    "static/media/GenJyuuGothic-Heavy.ttf": "./static/media/GenJyuuGothic-Heavy.f7f9dd84.ttf",
     "static/media/bg.svg": "./static/media/bg.bd1f944f.svg",
     "static/media/bglogo.svg": "./static/media/bglogo.38f4029a.svg",
     "static/media/bottom.svg": "./static/media/bottom.cb209a41.svg",
@@ -133,6 +133,6 @@
     "static/js/runtime-main.643fe956.js",
     "static/css/2.98e8484f.chunk.css",
     "static/js/2.d400d074.chunk.js",
-    "static/js/main.bb254dab.chunk.js"
+    "static/js/main.1c2cc385.chunk.js"
   ]
 }

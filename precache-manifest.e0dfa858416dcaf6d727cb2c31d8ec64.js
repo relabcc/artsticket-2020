@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ff19051d97905bfb2e1efa0bba051e3d",
+    "revision": "35dd1361377cd816659973ab02f10de3",
     "url": "./index.html"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/2.d400d074.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "23b8995f08ec5f9fcc63",
-    "url": "./static/js/main.bb254dab.chunk.js"
+    "revision": "3b8b32f50c2b71f3877b",
+    "url": "./static/js/main.1c2cc385.chunk.js"
   },
   {
     "revision": "2902d1d8808737e49eb8",
@@ -272,8 +272,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/BalooBhai2-Bold.e55e6708.woff"
   },
   {
-    "revision": "1b1f831dba4b0dd5efdeb923fc12560e",
-    "url": "./static/media/GenJyuuGothic-Heavy.1b1f831d.ttf"
+    "revision": "f7f9dd84b41553479b3131bcbe658ae2",
+    "url": "./static/media/GenJyuuGothic-Heavy.f7f9dd84.ttf"
   },
   {
     "revision": "03d15ebd86040a2d13164a0c412e2ae5",
