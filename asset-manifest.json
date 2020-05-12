@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "./static/js/main.dfb7a8ed.chunk.js",
-    "main.js.map": "./static/js/main.dfb7a8ed.chunk.js.map",
+    "main.js": "./static/js/main.bb254dab.chunk.js",
+    "main.js.map": "./static/js/main.bb254dab.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.643fe956.js",
     "runtime-main.js.map": "./static/js/runtime-main.643fe956.js.map",
-    "static/css/2.253a7d23.chunk.css": "./static/css/2.253a7d23.chunk.css",
-    "static/js/2.ca4c002a.chunk.js": "./static/js/2.ca4c002a.chunk.js",
-    "static/js/2.ca4c002a.chunk.js.map": "./static/js/2.ca4c002a.chunk.js.map",
+    "static/css/2.98e8484f.chunk.css": "./static/css/2.98e8484f.chunk.css",
+    "static/js/2.d400d074.chunk.js": "./static/js/2.d400d074.chunk.js",
+    "static/js/2.d400d074.chunk.js.map": "./static/js/2.d400d074.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.072ed95a7076bc250061be607aef7602.js": "./precache-manifest.072ed95a7076bc250061be607aef7602.js",
+    "precache-manifest.20d28c5a3117be7b33a398ad3b393f11.js": "./precache-manifest.20d28c5a3117be7b33a398ad3b393f11.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/2.253a7d23.chunk.css.map": "./static/css/2.253a7d23.chunk.css.map",
-    "static/js/2.ca4c002a.chunk.js.LICENSE.txt": "./static/js/2.ca4c002a.chunk.js.LICENSE.txt",
+    "static/css/2.98e8484f.chunk.css.map": "./static/css/2.98e8484f.chunk.css.map",
+    "static/js/2.d400d074.chunk.js.LICENSE.txt": "./static/js/2.d400d074.chunk.js.LICENSE.txt",
     "static/media/1-1.png": "./static/media/1-1.50b09743.png",
     "static/media/1-10.png": "./static/media/1-10.d856b07d.png",
     "static/media/1-2.png": "./static/media/1-2.e1b3c6bf.png",
@@ -131,8 +131,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.643fe956.js",
-    "static/css/2.253a7d23.chunk.css",
-    "static/js/2.ca4c002a.chunk.js",
-    "static/js/main.dfb7a8ed.chunk.js"
+    "static/css/2.98e8484f.chunk.css",
+    "static/js/2.d400d074.chunk.js",
+    "static/js/main.bb254dab.chunk.js"
   ]
 }
