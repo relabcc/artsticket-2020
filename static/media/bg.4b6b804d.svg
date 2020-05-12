@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1454 790.3" style="enable-background:new 0 0 1454 790.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#231F20;stroke:#16221D;stroke-width:5.31;stroke-linecap:round;stroke-linejoin:round;}
+	.st1{fill:none;stroke:#16221D;stroke-width:5.31;stroke-miterlimit:10;}
+	.st2{fill:#5E2A15;stroke:#16221D;stroke-width:1.59;stroke-miterlimit:10;}
+	.st3{fill:#F2E6D4;stroke:#16221D;stroke-width:1.45;stroke-miterlimit:10;}
+	.st4{fill:#FCC013;}
+	.st5{fill:#FFD377;}
+	.st6{fill:none;stroke:#16221D;stroke-width:1.45;stroke-miterlimit:10;}
+	.st7{fill:#B05232;stroke:#16221D;stroke-width:1.45;stroke-miterlimit:10;}
+	.st8{fill:#B05232;stroke:#16221D;stroke-width:1.5;stroke-miterlimit:10;}
+	.st9{fill:none;stroke:#16221D;stroke-width:1.45;stroke-miterlimit:10;stroke-dasharray:10.65;}
+	.st10{fill:#16221D;stroke:#16221D;stroke-miterlimit:10;}
+	.st11{fill:none;stroke:#16221D;stroke-width:1.5;stroke-miterlimit:10;}
+	.st12{fill:#5E2A15;stroke:#16221D;stroke-width:1.5;stroke-miterlimit:10;}
+</style>
+<g>
+	<g>
+		<polygon class="st0" points="212.4,45.5 150.2,136.7 1016.9,136.7 940.6,42.3 		"/>
+		<line class="st1" x1="212.4" y1="45.5" x2="212.6" y2="28.9"/>
+		<line class="st1" x1="940.6" y1="55.7" x2="940.8" y2="28.9"/>
+	</g>
+	<rect x="212.5" y="27" class="st2" width="727" height="15.3"/>
+	<polygon class="st2" points="939.5,27 1016.9,121.4 1016.9,136.7 939.5,42.3 	"/>
+	<polygon class="st2" points="212.5,28.5 149.7,122.8 149.7,138.1 212.5,43.7 	"/>
+</g>
+<g>
+	<g>
+		<path class="st3" d="M165,772.8c417.2,27.8,873.7,6.1,1284.2-69.7l-40.4-583.9c-406.3,76.6-829.7,72.7-1245.1,98L165,772.8z"/>
+		<path class="st4" d="M852.9,251.4c0,0,416,116.3,572.7,109.9l-15.5-181.1C1410.1,180.3,1083.8,237.4,852.9,251.4z"/>
+		<path class="st5" d="M794.7,187c0,0,455.2,138.5,627.9,131.4l-13.8-199.3C1408.8,119.2,1054.8,178.2,794.7,187z"/>
+		<path class="st5" d="M1078.4,453.6c0,0,259.9,77.9,358.5,73.6l-7.9-121.4C1429.1,405.9,1223.8,444.3,1078.4,453.6z"/>
+		<path class="st6" d="M165,772.8c417.2,27.8,873.7,6.1,1284.2-69.7l-40.4-583.9c-406.3,76.6-829.7,72.7-1245.1,98L165,772.8z"/>
+		<ellipse class="st7" cx="1370.6" cy="170.5" rx="11.7" ry="11"/>
+		<ellipse class="st7" cx="1375.5" cy="230.2" rx="11.7" ry="11"/>
+		<ellipse class="st7" cx="1382.3" cy="290.9" rx="11.7" ry="11"/>
+		<ellipse class="st7" cx="1386.2" cy="351.6" rx="11.7" ry="11"/>
+		<circle class="st8" cx="1397.9" cy="454.9" r="11.7"/>
+		<circle class="st8" cx="1404.7" cy="522.1" r="11.7"/>
+		<circle class="st8" cx="1412.6" cy="591.1" r="11.7"/>
+		<circle class="st8" cx="1415.1" cy="658.2" r="11.7"/>
+		<line class="st9" x1="1042.8" y1="174.5" x2="1092" y2="752.5"/>
+	</g>
+	<g>
+		<rect x="387" y="242.6" class="st10" width="961.9" height="461.8"/>
+		<line class="st11" x1="1347.2" y1="240.7" x2="1347.2" y2="704.4"/>
+		<polyline class="st12" points="1349,242.6 1321.6,233.8 359.7,233.8 387,242.6 		"/>
+	</g>
+	<polygon class="st12" points="355.6,234.2 387,242.6 387,704.4 355.6,696 	"/>
+</g>
+</svg>
